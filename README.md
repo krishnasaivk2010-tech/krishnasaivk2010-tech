@@ -14,7 +14,11 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=667EEA&center=true&vCenter=true&width=800&height=60&lines=Building+Scalable+Data+Platforms+%7C+AI-Powered+Analytics;3%2B+Years+Engineering+Enterprise+Solutions;Apache+Spark+%E2%80%A2+Databricks+%E2%80%A2+Snowflake+%E2%80%A2+Azure+%E2%80%A2+AWS)](https://github.com/krishnasaivk2010-tech)
+<img src="https://img.shields.io/badge/Building%20Scalable%20Data%20Platforms%20%7C%20AI--Powered%20Analytics-667EEA?style=for-the-badge&labelColor=1a1b27" alt="Building Scalable Data Platforms | AI-Powered Analytics"/>
+<br/>
+<img src="https://img.shields.io/badge/3%2B%20Years%20Engineering%20Enterprise%20Solutions-764BA2?style=for-the-badge&labelColor=1a1b27" alt="3+ Years Engineering Enterprise Solutions"/>
+<br/>
+<img src="https://img.shields.io/badge/Apache%20Spark%20%E2%80%A2%20Databricks%20%E2%80%A2%20Snowflake%20%E2%80%A2%20Azure%20%E2%80%A2%20AWS-58A6FF?style=for-the-badge&labelColor=1a1b27" alt="Apache Spark - Databricks - Snowflake - Azure - AWS"/>
 
 </div>
 

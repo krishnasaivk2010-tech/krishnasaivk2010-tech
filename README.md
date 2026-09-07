@@ -285,4 +285,40 @@ timeline
 
 - **Integrated LLM-based semantic search and RAG** over internal networking knowledge repositories, **improving troubleshooting accuracy** and **accelerating engineer response times by 25%**
 
-- **Collaborated with Network Engineering, Security, Platform Engineering, and AI/ML teams** in Agile environments to build scalable cloud-native data platforms on **Azure and AWS**, supporting production AI
+- **Collaborated with Network Engineering, Security, Platform Engineering, and AI/ML teams** in Agile environments to build scalable cloud-native data platforms on **Azure and AWS**, supporting production AI workloads at scale
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+## 📈 **CONTRIBUTION ACTIVITY**
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=krishnasaivk2010-tech&theme=tokyonight&hide_border=true&background=0d1117&ring=667eea&fire=764ba2&currStreakLabel=58a6ff" alt="Contribution streak"/>
+
+<br/><br/>
+
+<img src="https://ghchart.rshah.org/667eea/krishnasaivk2010-tech" width="90%" alt="Contribution graph"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krishnasaivk2010-tech&theme=github_dark" width="90%" alt="Profile summary"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=krishnasaivk2010-tech&theme=github_dark" width="49%" alt="Commit stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=krishnasaivk2010-tech&theme=github_dark&utcOffset=-6" width="49%" alt="Productive time"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=krishnasaivk2010-tech&theme=github_dark" width="49%" alt="Repos per language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=krishnasaivk2010-tech&theme=github_dark" width="49%" alt="Most used languages"/>
+
+</div>

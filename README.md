@@ -56,10 +56,12 @@ and AI-powered analytics—enabling enterprise teams to make faster, smarter dec
 <tr>
 <td><a href="tel:+16696667080"><img src="https://img.shields.io/badge/📱_+1_(669)_666_7080-FF6B6B?style=for-the-badge&labelColor=2C3E50&color=E74C3C"/></a></td>
 <td><a href="mailto:kantipudivardhan789@gmail.com"><img src="https://img.shields.io/badge/📧_kantipudivardhan789@gmail.com-4ECDC4?style=for-the-badge&labelColor=2C3E50&color=1ABC9C"/></a></td>
+<td><a href="https://krishnasaivardhan.com"><img src="https://img.shields.io/badge/🌐_krishnasaivardhan.com-667EEA?style=for-the-badge&labelColor=2C3E50&color=667EEA" alt="Website"/></a></td>
 </tr>
 </table>
 
 <p align="center">
+<a href="https://krishnasaivardhan.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-667EEA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/krishnasaivardhan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/krishnasaivk2010-tech" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=krishnasaivk2010-tech&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile Views"/>
